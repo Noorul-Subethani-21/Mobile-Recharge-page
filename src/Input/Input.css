@@ -1,0 +1,34 @@
+.head{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    color:rgb(20, 9, 80) ;
+    width: 50vh;
+}
+.head input{
+    padding: 20px;
+    width: 100%;
+    border: 1px solid gray;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: black;
+}
+.field{
+    display: flex;
+    flex-direction: row;
+    font-family: 'Poppins', sans-serif;
+}
+.field input{
+    padding: 10px;
+    border: 1px solid gray;
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    font-size: 20px;
+    color: black;
+}
+input{
+    border: none;
+    width: 100%;
+}
+input:focus{
+    outline: none;
+}
